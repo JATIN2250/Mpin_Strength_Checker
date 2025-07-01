@@ -15,11 +15,9 @@ The goal is to guide users toward choosing **stronger and less predictable MPINs
 
 Mpin_Strength_Checking/
 │
-├── Mpin_Strength_Checking.ipynb   # Jupyter Notebook containing all logic and test cases
-├── README.md                      # Project description and instructions
-└── requirements.txt               # Required Python libraries
-
-
+├── Mpin_Strength_Checking.ipynb # Jupyter Notebook with logic and test cases
+├── README.md # Project overview and usage guide
+└── requirements.txt # Python dependencies
 ---
 
 ## 🚀 Features
