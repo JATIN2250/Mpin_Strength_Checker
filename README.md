@@ -15,9 +15,10 @@ The goal is to guide users toward choosing **stronger and less predictable MPINs
 
 Mpin_Strength_Checking/
 │
-├── Mpin_Strength_Checking.ipynb # Jupyter Notebook with logic and test cases
-├── README.md # Project overview and usage guide
-└── requirements.txt # Python dependencies
+├── Mpin_Strength_Checking.ipynb   # Jupyter Notebook with logic and test cases
+├── README.md                      # Project overview and usage guide
+└── requirements.txt               # Python dependencies
+
 ---
 
 ## 🚀 Features
@@ -42,9 +43,9 @@ Install the required dependencies using:
 ```bash
 pip install -r requirements.txt
 Contents of requirements.txt:
+```
 
-
-✅ How to Run
+## ✅ How to Run
 Open the Mpin_Strength_Checking.ipynb in Jupyter Notebook.
 
 Run the entire notebook to:
@@ -53,7 +54,7 @@ Interactively check MPIN strength
 
 Automatically execute all test cases
 
-🧪 Sample Use Case
+## 🧪 Sample Use Case
 Input:
 
 Date of Birth: 01-01-1990
@@ -67,7 +68,7 @@ Output:
 - Reason: DEMOGRAPHIC_DOB_SELF
 
 
-📌 Notes
+## 📌 Notes
 The project avoids hardcoding commonly used MPINs and fetches them live using web scraping.
 
 Input dates must be in dd-mm-yyyy format.
